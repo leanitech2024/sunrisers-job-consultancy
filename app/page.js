@@ -19,7 +19,7 @@ import Banner3 from '@/components/sections/home3/Banner';
 import Category3 from '@/components/sections/home3/Category';
 import Chooseus3 from '@/components/sections/home3/Chooseus';
 import Clients3 from '@/components/sections/home3/Clients';
-import Download3 from '@/components/sections/home3/Download';
+// import Download3 from '@/components/sections/home3/Download';
 import Dueal3 from '@/components/sections/home3/Dueal';
 import Industries3 from '@/components/sections/home3/Industries';
 import News3 from '@/components/sections/home3/News';
@@ -36,7 +36,7 @@ export default function Home() {
         <Clients3 />
         <About3 />
         <Category3 />
-        <Download3 />
+        {/* <Download3 /> */}
         <Industries3 />
         <Welcome3 />
         <Slide_Text3 />
