@@ -26,7 +26,7 @@ import Industries3 from '@/components/sections/home3/Industries';
 import News3 from '@/components/sections/home3/News';
 import Slide_Text3 from '@/components/sections/home3/Slide-text';
 import Testimonial3 from '@/components/sections/home3/Testimonial';
-import Process4 from '@/components/sections/home4/Process';
+// import Process4 from '@/components/sections/home4/Process';
 // import Welcome3 from '@/components/sections/home3/Welcome';
 
 export default function Home() {
@@ -44,7 +44,8 @@ export default function Home() {
         <Slide_Text3 />
         <Testimonial3 />
         <Dueal />
-        <Process4 />
+        <Process />
+        {/* <Process4 /> */}
         {/* <Dueal3 /> */}
         <News3 />
         <Apps3 />
@@ -63,5 +64,98 @@ export default function Home() {
         <Subscribe /> */}
       </Layout>
     </div>
+  );
+}
+
+function Process() {
+  return (
+    <section className='process-style-two centred'>
+      <div className='outer-container p_relative pt_120 pb_120'>
+        <div className='auto-container'>
+          <div className='sec-title pb_60 sec-title-animation animation-style2'>
+            <span className='sub-title mb_10 title-animation'>Process</span>
+            <h2 className='title-animation'>Easy Steps to Fisnish</h2>
+          </div>
+          <div className='inner-container'>
+            <div
+              className='shape'
+              style={{
+                backgroundImage: 'url(assets/images/shape/shape-19.png)',
+              }}></div>
+            <div className='processing-block-two'>
+              <div className='inner-box'>
+                <h4>
+                  01 <span>2021</span>
+                </h4>
+                <h3>The Beginning</h3>
+                <p>
+                  Sunrisers Job Consultancy was founded with a mission to
+                  provide{' '}
+                  <strong>
+                    job placement services for freshers and entry-level
+                    candidates.
+                  </strong>{' '}
+                  We started with a focused team of recruiters committed to
+                  quality hiring.
+                </p>
+              </div>
+            </div>
+            <div className='processing-block-two'>
+              <div className='inner-box'>
+                <h4>
+                  02 <span>2022</span>
+                </h4>
+                <h3>Expanding Services</h3>
+                <p>Submitting all required documents promptly</p>
+              </div>
+            </div>
+            <div className='processing-block-two'>
+              <div className='inner-box'>
+                <h4>
+                  03 <span>2023</span>
+                </h4>
+                <h3>Building Strong Networks</h3>
+                <p>Succeed in the competitive world of account</p>
+              </div>
+            </div>
+          </div>
+
+          <div className='inner-container justify-content-around mt-5 mt-sm-5 mt-md-3 mt-lg-5'>
+            <div
+              className='shape'
+              style={{
+                backgroundImage: 'url(assets/images/shape/shape-19.png)',
+              }}></div>
+            <div className='processing-block-two'>
+              <div className='inner-box'>
+                <h4>
+                  04 <span>2024</span>
+                </h4>
+                <h3>Strengthening Recruitment Process</h3>
+                <p>Succeed in the competitive world of account</p>
+              </div>
+            </div>
+            <div className='processing-block-two'>
+              <div className='inner-box'>
+                <h4>
+                  05 <span>2025</span>
+                </h4>
+                <h3>Growth & Recognition</h3>
+                <p>Succeed in the competitive world of account</p>
+              </div>
+            </div>
+            <div className='processing-block-two'>
+              <div className='inner-box'>
+                <h4>
+                  06 <span>2026</span>
+                </h4>
+                <h3>Scaling for the Future</h3>
+                <p>Succeed in the competitive world of account</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   );
 }
