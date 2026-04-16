@@ -13,7 +13,9 @@ export default function Clients() {
                   src='/company-logos/logo-1.jpeg'
                   alt='logo 1'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -23,7 +25,9 @@ export default function Clients() {
                   src='/company-logos/logo-1.jpeg'
                   alt='logo 1'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -35,7 +39,9 @@ export default function Clients() {
                   src='/company-logos/logo-2.jpeg'
                   alt='logo 2'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -46,6 +52,8 @@ export default function Clients() {
                   alt='logo 2'
                   width={100}
                   height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -57,7 +65,9 @@ export default function Clients() {
                   src='/company-logos/logo-3.jpeg'
                   alt='logo 3'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -67,7 +77,9 @@ export default function Clients() {
                   src='/company-logos/logo-3.jpeg'
                   alt='logo 3'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -79,7 +91,9 @@ export default function Clients() {
                   src='/company-logos/logo-4.jpeg'
                   alt='logo 4'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -89,7 +103,9 @@ export default function Clients() {
                   src='/company-logos/logo-4.jpeg'
                   alt='logo 4'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -101,7 +117,9 @@ export default function Clients() {
                   src='/company-logos/logo-5.jpeg'
                   alt='logo 5'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -111,7 +129,9 @@ export default function Clients() {
                   src='/company-logos/logo-5.jpeg'
                   alt='logo 5'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -123,7 +143,9 @@ export default function Clients() {
                   src='/company-logos/logo-6.jpeg'
                   alt='logo 6'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -133,7 +155,9 @@ export default function Clients() {
                   src='/company-logos/logo-6.jpeg'
                   alt='logo 6'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -145,7 +169,9 @@ export default function Clients() {
                   src='/company-logos/logo-7.jpeg'
                   alt='logo 7'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
@@ -155,7 +181,9 @@ export default function Clients() {
                   src='/company-logos/logo-7.jpeg'
                   alt='logo 7'
                   width={100}
-                  height={50}
+                  height={100}
+                  className={'rounded-circle'}
+                  style={{ width: 100, height: 100 }}
                 />
               </Link>
             </figure>
