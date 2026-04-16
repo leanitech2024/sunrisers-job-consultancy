@@ -244,19 +244,26 @@ h6 {
 /* Preloader */
 
 .handle-preloader {
-  align-items: center;
-  -webkit-align-items: center;
-  display: flex;
-  display: -ms-flexbox;
-  height: 100%;
-  justify-content: center;
-  -webkit-justify-content: center;
+  /* align-items: center; */
+  /* -webkit-align-items: center; */
+  /* display: flex; */
+  /* display: -ms-flexbox; */
+  /* height: 100%; */
+  /* justify-content: center; */
+  /* -webkit-justify-content: center; */
   position: fixed;
   left: 0;
   top: 0;
   width: 100%;
   z-index: 9999999;
   background: var(--secondary-color);
+
+  height: 100dvh;
+  display: flex;
+  display: -ms-flexbox;
+  align-items: center;
+  -webkit-align-items: center;
+  justify-items: center;
 }
 
 .preloader-close {
@@ -279,6 +286,12 @@ h6 {
 .handle-preloader .animation-preloader {
   position: absolute;
   z-index: 100;
+
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .handle-preloader .animation-preloader .spinner {
