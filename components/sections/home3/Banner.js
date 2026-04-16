@@ -52,22 +52,38 @@ export default function Banner() {
             <div className='col-lg-6 col-md-12 col-sm-12 image-column'>
               <div className='image-inner'>
                 <div className='icon-logo'>
-                  <img src='assets/images/icons/logo-icon-1.png' alt='' />
+                  <img
+                    src='/logo.png'
+                    alt='logo'
+                    className={'rounded-circle'}
+                  />
                 </div>
                 <div className='image-box mr_15'>
                   <figure className='image image-1 mb_15'>
-                    <img src='assets/images/banner/banner-img-1.jpg' alt='' />
+                    <img
+                      src='https://jobaway.vercel.app/assets/images/banner/banner-img-1.jpg'
+                      alt=''
+                    />
                   </figure>
                   <figure className='image image-2'>
-                    <img src='assets/images/banner/banner-img-2.jpg' alt='' />
+                    <img
+                      src='https://jobaway.vercel.app/assets/images/banner/banner-img-3.jpg'
+                      alt=''
+                    />
                   </figure>
                 </div>
                 <div className='image-box pt_55'>
                   <figure className='image image-3 mb_15'>
-                    <img src='assets/images/banner/banner-img-3.jpg' alt='' />
+                    <img
+                      src='https://jobaway.vercel.app/assets/images/banner/banner-img-2.jpg'
+                      alt=''
+                    />
                   </figure>
                   <figure className='image image-4'>
-                    <img src='assets/images/banner/banner-img-4.jpg' alt='' />
+                    <img
+                      src='https://jobaway.vercel.app/assets/images/banner/banner-img-4.jpg'
+                      alt=''
+                    />
                   </figure>
                 </div>
               </div>

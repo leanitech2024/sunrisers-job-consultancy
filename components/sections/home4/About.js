@@ -10,18 +10,30 @@ export default function About() {
               <div className='image-inner'>
                 <div className='image-box mr_15'>
                   <figure className='image image-1 mb_15'>
-                    <img src='assets/images/resource/about-3.jpg' alt='' />
+                    <img
+                      src='https://jobaway.vercel.app/assets/images/resource/about-3.jpg'
+                      alt=''
+                    />
                   </figure>
                   <figure className='image image-2'>
-                    <img src='assets/images/resource/about-4.jpg' alt='' />
+                    <img
+                      src='https://jobaway.vercel.app/assets/images/resource/about-4.jpg'
+                      alt=''
+                    />
                   </figure>
                 </div>
                 <div className='image-box'>
                   <figure className='image image-3 mb_15'>
-                    <img src='assets/images/resource/about-5.jpg' alt='' />
+                    <img
+                      src='https://jobaway.vercel.app/assets/images/resource/about-5.jpg'
+                      alt=''
+                    />
                   </figure>
                   <figure className='image image-4'>
-                    <img src='assets/images/resource/about-6.jpg' alt='' />
+                    <img
+                      src='https://jobaway.vercel.app/assets/images/resource/about-6.jpg'
+                      alt=''
+                    />
                   </figure>
                 </div>
                 <div className='support-box'>

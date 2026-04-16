@@ -64,10 +64,7 @@ export default function Testimonial() {
                 <SwiperSlide key={testimonial.id}>
                   <div className='testimonial-block'>
                     <figure className='thumb-box'>
-                      <img
-                        src='assets/images/resource/testimonial-5.png'
-                        alt=''
-                      />
+                      <img src={testimonial.imgLarge} alt={testimonial.name} />
                     </figure>
                     <div className='content-box'>
                       <div className='icon-box'>

@@ -74,10 +74,7 @@ export default function Testimonial() {
                     </div>
                     <div className='author-box'>
                       <figure className='thumb-box'>
-                        <img
-                          src='assets/images/resource/testimonial-1.png'
-                          alt=''
-                        />
+                        <img src={testimonial.img} alt={testimonial.name} />
                       </figure>
                       <h4>{testimonial.name}</h4>
                       <span className='designation'>

@@ -48,18 +48,12 @@ export default function Service_Page() {
                       <div className='image-box'>
                         <figure className='image'>
                           <Link href='#'>
-                            <img
-                              src='assets/images/service/service-1.jpg'
-                              alt=''
-                            />
+                            <img src={service.cover} alt={service.title} />
                           </Link>
                         </figure>
                         <figure className='overlay-image'>
                           <Link href='#'>
-                            <img
-                              src='assets/images/service/service-1.jpg'
-                              alt=''
-                            />
+                            <img src={service.cover} alt={service.title} />
                           </Link>
                         </figure>
                       </div>
@@ -111,10 +105,16 @@ export default function Service_Page() {
             <div className='shape-4'></div>
           </div>
           <figure className='image-layer-1 p_absolute l_150 b_0'>
-            <img src='assets/images/resource/women-1.png' alt='' />
+            <img
+              src='https://jobaway.vercel.app/assets/images/resource/women-1.png'
+              alt=''
+            />
           </figure>
           <figure className='image-layer-2 p_absolute r_150 b_0'>
-            <img src='assets/images/resource/men-1.png' alt='' />
+            <img
+              src='https://jobaway.vercel.app/assets/images/resource/men-1.png'
+              alt=''
+            />
           </figure>
           <div className='auto-container'>
             <div className='row clearfix'>
