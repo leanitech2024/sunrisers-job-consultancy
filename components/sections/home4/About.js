@@ -42,7 +42,7 @@ export default function About() {
                   </div>
                   <span>Online Support</span>
                   <h4>
-                    <Link href='tel:+919380532329'>+91 9380532329</Link>
+                    <Link href='tel:+919110632329'>+91 9110632329</Link>
                   </h4>
                 </div>
               </div>
