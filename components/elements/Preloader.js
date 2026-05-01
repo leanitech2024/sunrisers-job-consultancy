@@ -7,7 +7,16 @@ export default function Preloader() {
         </div>
         <div id='handle-preloader' className='handle-preloader'>
           <div className='animation-preloader'>
-            <div className='spinner'></div>
+            <div className={'mb-3'}>
+              <img
+                src='/logo.png'
+                alt='logo'
+                width={'80px'}
+                height={'80px'}
+                className={'rounded-circle'}
+              />
+            </div>
+            {/* <div className='spinner'></div> */}
             <div className='txt-loading'>
               <span data-text-preloader='l' className='letters-loading'>
                 l

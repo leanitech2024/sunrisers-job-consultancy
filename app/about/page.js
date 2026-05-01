@@ -278,16 +278,10 @@ export function OurTeams() {
               <div className='inner-box'>
                 <div className='image-box'>
                   <figure className='image'>
-                    <img
-                      src='https://jobaway.vercel.app/assets/images/team/team-1.jpg'
-                      alt=''
-                    />
+                    <img src='/assets/images/team/team-1.jpg' alt='' />
                   </figure>
                   <figure className='overlay-image'>
-                    <img
-                      src='https://jobaway.vercel.app/assets/images/team/team-1.jpg'
-                      alt=''
-                    />
+                    <img src='/assets/images/team/team-1.jpg' alt='' />
                   </figure>
                 </div>
                 <div className='lower-content'>
@@ -307,16 +301,10 @@ export function OurTeams() {
               <div className='inner-box'>
                 <div className='image-box'>
                   <figure className='image'>
-                    <img
-                      src='https://jobaway.vercel.app/assets/images/team/team-2.jpg'
-                      alt=''
-                    />
+                    <img src='/assets/images/team/team-2.jpg' alt='' />
                   </figure>
                   <figure className='overlay-image'>
-                    <img
-                      src='https://jobaway.vercel.app/assets/images/team/team-2.jpg'
-                      alt=''
-                    />
+                    <img src='/assets/images/team/team-2.jpg' alt='' />
                   </figure>
                 </div>
                 <div className='lower-content'>
@@ -336,16 +324,10 @@ export function OurTeams() {
               <div className='inner-box'>
                 <div className='image-box'>
                   <figure className='image'>
-                    <img
-                      src='https://jobaway.vercel.app/assets/images/team/team-3.jpg'
-                      alt=''
-                    />
+                    <img src='/assets/images/team/team-3.jpg' alt='' />
                   </figure>
                   <figure className='overlay-image'>
-                    <img
-                      src='https://jobaway.vercel.app/assets/images/team/team-3.jpg'
-                      alt=''
-                    />
+                    <img src='/assets/images/team/team-3.jpg' alt='' />
                   </figure>
                 </div>
                 <div className='lower-content'>
@@ -365,16 +347,10 @@ export function OurTeams() {
               <div className='inner-box'>
                 <div className='image-box'>
                   <figure className='image'>
-                    <img
-                      src='https://jobaway.vercel.app/assets/images/team/team-4.jpg'
-                      alt=''
-                    />
+                    <img src='/assets/images/team/team-4.jpg' alt='' />
                   </figure>
                   <figure className='overlay-image'>
-                    <img
-                      src='https://jobaway.vercel.app/assets/images/team/team-4.jpg'
-                      alt=''
-                    />
+                    <img src='/assets/images/team/team-4.jpg' alt='' />
                   </figure>
                 </div>
                 <div className='lower-content'>

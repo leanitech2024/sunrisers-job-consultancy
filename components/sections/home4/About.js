@@ -11,28 +11,32 @@ export default function About() {
                 <div className='image-box mr_15'>
                   <figure className='image image-1 mb_15'>
                     <img
-                      src='https://jobaway.vercel.app/assets/images/resource/about-3.jpg'
-                      alt=''
+                      src='/assets/images/resource/about-3.jpg'
+                      alt='about image 1'
+                      loading={'eager'}
                     />
                   </figure>
                   <figure className='image image-2'>
                     <img
-                      src='https://jobaway.vercel.app/assets/images/resource/about-4.jpg'
-                      alt=''
+                      src='/assets/images/resource/about-4.jpg'
+                      alt='about image 2'
+                      loading={'eager'}
                     />
                   </figure>
                 </div>
                 <div className='image-box'>
                   <figure className='image image-3 mb_15'>
                     <img
-                      src='https://jobaway.vercel.app/assets/images/resource/about-5.jpg'
-                      alt=''
+                      src='/assets/images/resource/about-5.jpg'
+                      alt='about image 3'
+                      loading={'eager'}
                     />
                   </figure>
                   <figure className='image image-4'>
                     <img
-                      src='https://jobaway.vercel.app/assets/images/resource/about-6.jpg'
-                      alt=''
+                      src='/assets/images/resource/about-6.jpg'
+                      alt='about image 4'
+                      loading={'eager'}
                     />
                   </figure>
                 </div>

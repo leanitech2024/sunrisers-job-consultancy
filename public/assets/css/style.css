@@ -1538,7 +1538,8 @@ button.ltr {
 .slide-text .text-inner .text-list li:before {
   position: absolute;
   content: '';
-  background-image: url(../images/icons/icon-1.png);
+  /* background-image: url(../images/icons/icon-1.png); */
+  background-image: url(/star.svg);
   width: 37px;
   height: 37px;
   top: 2px;

@@ -55,9 +55,15 @@ export default function Testimonial() {
     <section className='testimonial-style-two pt_120 pb_120'>
       <div
         className='pattern-layer'
-        style={{
-          backgroundImage: 'url(assets/images/shape/shape-17.png)',
-        }}></div>
+        style={
+          {
+            // --theme-color: #fbd457;
+            // --theme-color-2: #c9aa46;
+            // background: 'linear-gradient(365deg, #fbd457 30%, #c9aa46 30%)',
+            // background: 'radial-gradient(#9198e5 100%, #fff 1%)',
+            // backgroundImage: 'url(assets/images/shape/shape-17.png)',
+          }
+        }></div>
       <div className='auto-container'>
         <div className='sec-title centred pb_60 sec-title-animation animation-style2'>
           <span className='sub-title mb_10 title-animation'>Testimonials</span>
@@ -74,7 +80,11 @@ export default function Testimonial() {
                     </div>
                     <div className='author-box'>
                       <figure className='thumb-box'>
-                        <img src={testimonial.img} alt={testimonial.name} />
+                        <img
+                          src={testimonial.img}
+                          alt={testimonial.name}
+                          className={'rounded-circle'}
+                        />
                       </figure>
                       <h4>{testimonial.name}</h4>
                       <span className='designation'>

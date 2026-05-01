@@ -45,7 +45,7 @@ export const services = [
       'Industry-specific Talent Acquisition',
       'Customized Hiring Solutions',
     ],
-    cover: 'https://jobaway.vercel.app/assets/images/service/service-1.jpg',
+    cover: '/assets/images/service/service-1.jpg',
     info: 'We understand client requirements deeply and deliver candidates that match both skill and culture fit, ensuring higher success rates in hiring.',
   },
   {
@@ -59,7 +59,7 @@ export const services = [
       'Career Guidance & Support',
       'Resume Screening & Shortlisting',
     ],
-    cover: 'https://jobaway.vercel.app/assets/images/service/service-2.jpg',
+    cover: '/assets/images/service/service-2.jpg',
     info: 'Our goal is to simplify the job search process and provide trusted job consultancy services for freshers and experienced candidates.',
   },
   {
@@ -73,7 +73,7 @@ export const services = [
       'Interview Coordination',
       'Hiring Process Management',
     ],
-    cover: 'https://jobaway.vercel.app/assets/images/service/service-3.jpg',
+    cover: '/assets/images/service/service-3.jpg',
     info: 'Outsourced recruitment helps companies save time and focus on core business operations while we manage talent acquisition efficiently.',
   },
   {
@@ -87,7 +87,7 @@ export const services = [
       'Volume Hiring for BPO & Sales',
       'Fast Turnaround Hiring',
     ],
-    cover: 'https://jobaway.vercel.app/assets/images/service/service-4.jpg',
+    cover: '/assets/images/service/service-4.jpg',
     info: 'Our bulk hiring solutions are designed to meet the high-volume recruitment needs of businesses, ensuring a fast and efficient hiring process.',
   },
   {
@@ -100,7 +100,7 @@ export const services = [
       'Interview by Industry Experts',
       'Background Verification',
     ],
-    cover: 'https://jobaway.vercel.app/assets/images/service/service-5.jpg',
+    cover: '/assets/images/service/service-5.jpg',
     info: 'This reduces hiring risks and improves employee retention.',
   },
   {
@@ -114,7 +114,7 @@ export const services = [
       'Finance & Accounts',
       // 'Logistics & Operations',
     ],
-    cover: 'https://jobaway.vercel.app/assets/images/service/service-6.jpg',
+    cover: '/assets/images/service/service-6.jpg',
     info: 'Our wide industry network allows us to deliver the right talent faster.',
   },
 ];

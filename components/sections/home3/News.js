@@ -18,18 +18,12 @@ export default function News() {
                 <div className='image-box'>
                   <figure className='image'>
                     <Link href='/blog-details'>
-                      <img
-                        src='https://jobaway.vercel.app/assets/images/news/news-4.jpg'
-                        alt=''
-                      />
+                      <img src='/assets/images/news/news-4.jpg' alt='' />
                     </Link>
                   </figure>
                   <figure className='overlay-image'>
                     <Link href='/blog-details'>
-                      <img
-                        src='https://jobaway.vercel.app/assets/images/news/news-4.jpg'
-                        alt=''
-                      />
+                      <img src='/assets/images/news/news-4.jpg' alt='' />
                     </Link>
                   </figure>
                 </div>
@@ -61,18 +55,12 @@ export default function News() {
                 <div className='image-box'>
                   <figure className='image'>
                     <Link href='/blog-details'>
-                      <img
-                        src='https://jobaway.vercel.app/assets/images/news/news-5.jpg'
-                        alt=''
-                      />
+                      <img src='/assets/images/news/news-5.jpg' alt='' />
                     </Link>
                   </figure>
                   <figure className='overlay-image'>
                     <Link href='/blog-details'>
-                      <img
-                        src='https://jobaway.vercel.app/assets/images/news/news-5.jpg'
-                        alt=''
-                      />
+                      <img src='/assets/images/news/news-5.jpg' alt='' />
                     </Link>
                   </figure>
                 </div>
@@ -104,18 +92,12 @@ export default function News() {
                 <div className='image-box'>
                   <figure className='image'>
                     <Link href='/blog-details'>
-                      <img
-                        src='https://jobaway.vercel.app/assets/images/news/news-6.jpg'
-                        alt=''
-                      />
+                      <img src='/assets/images/news/news-6.jpg' alt='' />
                     </Link>
                   </figure>
                   <figure className='overlay-image'>
                     <Link href='/blog-details'>
-                      <img
-                        src='https://jobaway.vercel.app/assets/images/news/news-6.jpg'
-                        alt=''
-                      />
+                      <img src='/assets/images/news/news-6.jpg' alt='' />
                     </Link>
                   </figure>
                 </div>

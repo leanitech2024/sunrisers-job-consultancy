@@ -26,7 +26,7 @@ export default function Layout({
 }) {
   const [scroll, setScroll] = useState(0);
   // Mobile Menu
-  const [isMobileMenu, setMobileMenu] = useState(false);
+  const [isMobileMenu, setMobileMenu] = useState(true);
   const handleMobileMenu = () => {
     setMobileMenu(!isMobileMenu);
     !isMobileMenu

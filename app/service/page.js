@@ -107,13 +107,13 @@ export default function Service_Page() {
           </div>
           <figure className='image-layer-1 p_absolute l_150 b_0'>
             <img
-              src='https://jobaway.vercel.app/assets/images/resource/women-1.png'
+              src='/assets/images/resource/women-1.png'
               alt=''
             />
           </figure>
           <figure className='image-layer-2 p_absolute r_150 b_0'>
             <img
-              src='https://jobaway.vercel.app/assets/images/resource/men-1.png'
+              src='/assets/images/resource/men-1.png'
               alt=''
             />
           </figure>

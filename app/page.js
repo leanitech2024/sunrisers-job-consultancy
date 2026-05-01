@@ -22,6 +22,7 @@ import Clients3 from '@/components/sections/home3/Clients';
 // import Download3 from '@/components/sections/home3/Download';
 // import Dueal3 from '@/components/sections/home3/Dueal';
 import Dueal from '@/components/sections/home2/Dueal';
+import Subscribe from '@/components/sections/home2/Subscribe';
 import Industries3 from '@/components/sections/home3/Industries';
 import News3 from '@/components/sections/home3/News';
 import Slide_Text3 from '@/components/sections/home3/Slide-text';
@@ -32,7 +33,7 @@ import Testimonial3 from '@/components/sections/home3/Testimonial';
 export default function Home() {
   return (
     <div className='boxed_wrapper'>
-      <Layout headerStyle={3} footerStyle={3}>
+      <Layout headerStyle={3} footerStyle={2}>
         <Banner3 />
         <Chooseus3 />
         <Clients3 />
@@ -62,6 +63,7 @@ export default function Home() {
         <Team />
         <News />
         <Subscribe /> */}
+        <Subscribe />
       </Layout>
     </div>
   );

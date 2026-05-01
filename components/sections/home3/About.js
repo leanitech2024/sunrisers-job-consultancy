@@ -15,16 +15,10 @@ export default function About() {
             <div className='video_block_two'>
               <div className='video-box p_relative pb_100 pr_150 mr_30'>
                 <figure className='image image-1'>
-                  <img
-                    src='https://jobaway.vercel.app/assets/images/resource/about-1.jpg'
-                    alt=''
-                  />
+                  <img src='/assets/images/resource/about-1.jpg' alt='' />
                 </figure>
                 <figure className='image image-2 z_1 p_absolute r_0 b_0'>
-                  <img
-                    src='https://jobaway.vercel.app/assets/images/resource/about-2.jpg'
-                    alt=''
-                  />
+                  <img src='/assets/images/resource/about-2.jpg' alt='' />
                 </figure>
                 <div
                   className='shape'

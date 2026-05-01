@@ -1,7 +1,7 @@
 export default function Apps() {
   return (
     <section
-      className='apps-section pt_120 pb_120'
+      className='apps-section pt_120 pb_120 mb_100'
       style={{ height: '400px !important' }}>
       <div
         className='pattern-layer'
@@ -40,15 +40,15 @@ export default function Apps() {
           </div>
         </div>
       </div> */}
-      <div className='map-content w-100 h-100'>
-        <div className='map-inner'>
+      <div className='map-content w-100 h-100 ratio ratio-16x9'>
+        <div className='map-inner '>
           {/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15531.672794677846!2d77.6279118480791!3d12.973080557596449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16a418770391%3A0xb50f46b826501036!2sIndiranagar%2C%20Bengaluru%2C%20Karnataka!5e1!3m2!1sen!2sin!4v1777612565092!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */}
 
           <iframe
             title={'map'}
             name={'map'}
             src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15531.672794677846!2d77.6279118480791!3d12.973080557596449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16a418770391%3A0xb50f46b826501036!2sIndiranagar%2C%20Bengaluru%2C%20Karnataka!5e1!3m2!1sen!2sin!4v1777612565092!5m2!1sen!2sin'
-            height={450}
+            height={'100%'}
             width={'100%'}
             // style={{ border: 0, width: '100%', height: '100%' }}
             allowFullScreen

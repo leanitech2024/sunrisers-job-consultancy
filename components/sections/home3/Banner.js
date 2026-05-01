@@ -56,33 +56,38 @@ export default function Banner() {
                     src='/logo.png'
                     alt='logo'
                     className={'rounded-circle'}
+                    loading={'eager'}
                   />
                 </div>
                 <div className='image-box mr_15'>
                   <figure className='image image-1 mb_15'>
                     <img
-                      src='https://jobaway.vercel.app/assets/images/banner/banner-img-1.jpg'
-                      alt=''
+                      src='/assets/images/banner/banner-1.jpg'
+                      alt='banner-1'
+                      loading={'eager'}
                     />
                   </figure>
                   <figure className='image image-2'>
                     <img
-                      src='https://jobaway.vercel.app/assets/images/banner/banner-img-3.jpg'
-                      alt=''
+                      src='/assets/images/banner/banner-3.jpg'
+                      alt='banner-2'
+                      loading={'eager'}
                     />
                   </figure>
                 </div>
                 <div className='image-box pt_55'>
                   <figure className='image image-3 mb_15'>
                     <img
-                      src='https://jobaway.vercel.app/assets/images/banner/banner-img-2.jpg'
-                      alt=''
+                      src='/assets/images/banner/banner-2.jpg'
+                      alt='banner-3'
+                      loading={'eager'}
                     />
                   </figure>
                   <figure className='image image-4'>
                     <img
-                      src='https://jobaway.vercel.app/assets/images/banner/banner-img-4.jpg'
-                      alt=''
+                      src='/assets/images/banner/banner-4.jpg'
+                      alt='banner-4'
+                      loading={'eager'}
                     />
                   </figure>
                 </div>

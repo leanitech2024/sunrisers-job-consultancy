@@ -17,10 +17,7 @@ export default function Category() {
                   Find Work
                 </Link>
                 <figure className='image-box image-hov-one'>
-                  <img
-                    src='https://jobaway.vercel.app/assets/images/resource/category-1.jpg'
-                    alt=''
-                  />
+                  <img src='/assets/images/resource/category-1.jpg' alt='' />
                 </figure>
               </div>
             </div>
@@ -38,10 +35,7 @@ export default function Category() {
                   Find Employee
                 </Link>
                 <figure className='image-box image-hov-two'>
-                  <img
-                    src='https://jobaway.vercel.app/assets/images/resource/category-2.jpg'
-                    alt=''
-                  />
+                  <img src='/assets/images/resource/category-2.jpg' alt='' />
                 </figure>
               </div>
             </div>
