@@ -84,7 +84,7 @@ export default function Clients() {
               </Link>
             </figure>
           </div>
-          <div className='clients-box'>
+          {/* <div className='clients-box'>
             <figure className='clients-logo'>
               <Link href='/'>
                 <img
@@ -109,7 +109,7 @@ export default function Clients() {
                 />
               </Link>
             </figure>
-          </div>
+          </div> */}
           <div className='clients-box'>
             <figure className='clients-logo'>
               <Link href='/'>
@@ -162,7 +162,7 @@ export default function Clients() {
               </Link>
             </figure>
           </div>
-          <div className='clients-box'>
+          {/* <div className='clients-box'>
             <figure className='clients-logo'>
               <Link href='/'>
                 <img
@@ -187,7 +187,7 @@ export default function Clients() {
                 />
               </Link>
             </figure>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

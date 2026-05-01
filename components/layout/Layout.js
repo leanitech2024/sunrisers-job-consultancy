@@ -42,8 +42,8 @@ export default function Layout({
   const [isSidebar, setSidebar] = useState(false);
   const handleSidebar = () => setSidebar(!isSidebar);
 
-  useWOW(); // auto-init
-  // useWOW({ animateClass: 'animate__animated' });
+  // useWOW(); // auto-init
+  useWOW({ animateClass: 'animate__animated' });
 
   useEffect(() => {
     // if (typeof window === 'undefined') return;

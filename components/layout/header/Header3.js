@@ -116,7 +116,7 @@ export default function Header3({ scroll, handleMobileMenu, handlePopup }) {
                   <Link href='#'>Log In</Link>
                 </div> */}
                 <div className='btn-box'>
-                  <Link href='/' className='theme-btn btn-one'>
+                  <Link href='/contact' className='theme-btn btn-one'>
                     Get Started
                   </Link>
                 </div>
@@ -159,7 +159,7 @@ export default function Header3({ scroll, handleMobileMenu, handlePopup }) {
                   <Link href='#'>Log In</Link>
                 </div> */}
                 <div className='btn-box'>
-                  <Link href='/' className='theme-btn btn-one'>
+                  <Link href='/contact' className='theme-btn btn-one'>
                     Get Started
                   </Link>
                 </div>

@@ -13,7 +13,7 @@ export default function Category() {
                   Start your career journey with trusted opportunities at <br />
                   Sunrisers Job Consultancy
                 </p>
-                <Link href='/' className='theme-btn btn-one'>
+                <Link href='/job-apply' className='theme-btn btn-one'>
                   Find Work
                 </Link>
                 <figure className='image-box image-hov-one'>
@@ -34,7 +34,7 @@ export default function Category() {
                   and vision <br />
                   helps build a strong and successful team.
                 </p>
-                <Link href='/' className='theme-btn btn-one'>
+                <Link href='/job-apply' className='theme-btn btn-one'>
                   Find Employee
                 </Link>
                 <figure className='image-box image-hov-two'>

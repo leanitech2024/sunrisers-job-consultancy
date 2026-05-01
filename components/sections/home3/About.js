@@ -68,7 +68,7 @@ export default function About() {
                   </ul>
                 </div>
                 <div className='btn-box'>
-                  <Link href='/about' className='theme-btn btn-one'>
+                  <Link href='/job-apply' className='theme-btn btn-one'>
                     <span>Find Works</span>
                   </Link>
                 </div>

@@ -42,11 +42,13 @@ export default function Apps() {
       </div> */}
       <div className='map-content w-100 h-100'>
         <div className='map-inner'>
+          {/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15531.672794677846!2d77.6279118480791!3d12.973080557596449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16a418770391%3A0xb50f46b826501036!2sIndiranagar%2C%20Bengaluru%2C%20Karnataka!5e1!3m2!1sen!2sin!4v1777612565092!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */}
+
           <iframe
             title={'map'}
             name={'map'}
-            src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2643.6895046810805!2d-122.52642526124438!3d38.00014098339506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085976736097a2f%3A0xbe014d20e6e22654!2sSan Rafael%2C California%2C Hoa Kỳ!5e0!3m2!1svi!2s!4v1678975266976!5m2!1svi!2s'
-            height={'100%'}
+            src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15531.672794677846!2d77.6279118480791!3d12.973080557596449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16a418770391%3A0xb50f46b826501036!2sIndiranagar%2C%20Bengaluru%2C%20Karnataka!5e1!3m2!1sen!2sin!4v1777612565092!5m2!1sen!2sin'
+            height={450}
             width={'100%'}
             // style={{ border: 0, width: '100%', height: '100%' }}
             allowFullScreen
@@ -54,7 +56,7 @@ export default function Apps() {
             referrerPolicy='no-referrer-when-downgrade'
           />
         </div>
-        <div className='map-author'>
+        {/* <div className='map-author'>
           <figure className='author-thumb'>
             <img src='assets/images/resource/author-7.png' alt='' />
           </figure>
@@ -63,7 +65,7 @@ export default function Apps() {
             <img src='assets/images/icons/icon-13.png' alt='' /> 4.96 out of 5
           </span>
           <p>Event Server, Bartender, event Set Up</p>
-        </div>
+        </div> */}
       </div>
     </section>
   );

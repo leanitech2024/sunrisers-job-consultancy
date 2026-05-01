@@ -124,9 +124,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Rohit Sharma',
     designation: 'Software Engineer',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-1.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/1.jpg',
+    imgLarge: '/assets/images/testimonials/1.jpg',
     testimonial:
       "Sunrise Job Consultancy helped me secure a job in a reputed company within just a few weeks. Their team provided excellent guidance, from resume building to interview preparation. If you're looking for a reliable job consultancy in Bangalore, I highly recommend them.",
   },
@@ -134,9 +133,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Priya Nair',
     designation: 'HR Executive',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-2.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/2.jpg',
+    imgLarge: '/assets/images/testimonials/2.jpg',
     testimonial:
       'I had an amazing experience with Sunrise Job Consultancy. The recruiters are very professional and understand your profile before suggesting jobs. This is one of the best placement consultancies for freshers and experienced candidates.',
   },
@@ -144,9 +142,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Amit Verma',
     designation: 'Software Engineer',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-3.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/3.jpg',
+    imgLarge: '/assets/images/testimonials/3.jpg',
     testimonial:
       'Thanks to Sunrise Job Consultancy, I got placed in an IT company that perfectly matches my skills. Their support and follow-ups throughout the hiring process were impressive. Truly a trusted job consultancy service.',
   },
@@ -154,9 +151,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Sneha Reddy',
     designation: 'MBA Graduate',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-4.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/4.jpg',
+    imgLarge: '/assets/images/testimonials/4.jpg',
     testimonial:
       'As a fresher, I was struggling to find the right opportunity. Sunrise Job Consultancy guided me step-by-step and helped me land my first job. Highly recommended for fresh graduates looking for placement assistance.',
   },
@@ -164,9 +160,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Rajesh Gupta',
     designation: 'HR Manager, Tech Solutions Pvt Ltd',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/5.jpg',
+    imgLarge: '/assets/images/testimonials/5.jpg',
     testimonial:
       'We partnered with Sunrise Job Consultancy for our hiring needs, and they delivered excellent candidates within a short time. Their screening process is efficient, saving us valuable time in recruitment.',
   },
@@ -174,9 +169,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Anjali Mehta',
     designation: 'Founder, Startup Company',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-6.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/6.jpg',
+    imgLarge: '/assets/images/testimonials/6.jpg',
     testimonial:
       'Sunrise Job Consultancy understands business requirements very well. They provided us with skilled and job-ready candidates. One of the most reliable recruitment consultancies we’ve worked with.',
   },
@@ -184,9 +178,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Vikram Singh',
     designation: 'Operations Head, Logistics Firm',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-7.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/7.jpg',
+    imgLarge: '/assets/images/testimonials/7.jpg',
     testimonial:
       'The team at Sunrise Job Consultancy is highly professional and responsive. They consistently provide quality candidates, making them our go-to recruitment partner.',
   },
@@ -194,9 +187,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Neha Kapoor',
     designation: 'Recruitment Executive',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-8.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/8.jpg',
+    imgLarge: '/assets/images/testimonials/8.jpg',
     testimonial:
       'Working at Sunrise Job Consultancy has been a great learning experience. The work environment is supportive, and the management encourages professional growth. A good place for building a career in recruitment.',
   },
@@ -204,9 +196,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Karan Malhotra',
     designation: 'HR Recruiter',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-4.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/9.jpg',
+    imgLarge: '/assets/images/testimonials/9.jpg',
     testimonial:
       'The company offers a friendly work culture with flexible working options. I gained strong knowledge in recruitment and client handling. A great place for freshers to start their HR career.',
   },
@@ -214,9 +205,8 @@ export const testimonials = [
     id: crypto.randomUUID(),
     name: 'Pooja Singh',
     designation: 'Senior Recruiter',
-    img: 'https://jobaway.vercel.app/assets/images/resource/testimonial-6.png',
-    imgLarge:
-      'https://jobaway.vercel.app/assets/images/resource/testimonial-5.png',
+    img: '/assets/images/testimonials/10.jpg',
+    imgLarge: '/assets/images/testimonials/10.jpg',
     testimonial:
       'Sunrise Job Consultancy provides a positive workplace with helpful colleagues and timely salary. It’s a good platform to enhance your skills in hiring and talent acquisition.',
   },

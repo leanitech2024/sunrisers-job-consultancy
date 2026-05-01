@@ -358,11 +358,11 @@ export default function Industries() {
             </div>
           ))}
         </div> */}
-        <div className='more-btn'>
+        {/* <div className='more-btn'>
           <Link href='/' className='theme-btn btn-one'>
             View All Categories
           </Link>
-        </div>
+        </div> */}
       </div>
     </section>
   );

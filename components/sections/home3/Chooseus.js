@@ -16,7 +16,7 @@ export default function Chooseus() {
                   <i className='icon-4'></i>
                 </div>
                 <h3>
-                  <Link href='#'>Who We Are</Link>
+                  <Link href='/'>Who We Are</Link>
                 </h3>
                 <p>
                   Sunrisers Job Consultancy is a growing{' '}
@@ -26,11 +26,11 @@ export default function Chooseus() {
                   , helping job seekers find careers and companies hire talent
                   efficiently with experienced recruiters.
                 </p>
-                <div className='link'>
+                {/* <div className='link'>
                   <Link href='#'>
                     Learn More<i className='icon-7'></i>
                   </Link>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -41,7 +41,7 @@ export default function Chooseus() {
                   <i className='icon-5'></i>
                 </div>
                 <h3>
-                  <Link href='#'>Our Mission</Link>
+                  <Link href='/'>Our Mission</Link>
                 </h3>
                 <p>
                   <strong>
@@ -51,11 +51,11 @@ export default function Chooseus() {
                   We empower job seekers with career guidance and enable
                   businesses to build high-performing teams.
                 </p>
-                <div className='link'>
+                {/* <div className='link'>
                   <Link href='#'>
                     Learn More<i className='icon-7'></i>
                   </Link>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -66,7 +66,7 @@ export default function Chooseus() {
                   <i className='icon-6'></i>
                 </div>
                 <h3>
-                  <Link href='#'>Our Vision</Link>
+                  <Link href='/'>Our Vision</Link>
                 </h3>
                 <p>
                   To become one of the most trusted and preferred{' '}
@@ -74,11 +74,11 @@ export default function Chooseus() {
                   delivering quality recruitment services and building long-term
                   relationships with clients and candidates.
                 </p>
-                <div className='link'>
+                {/* <div className='link'>
                   <Link href='#'>
                     Learn More<i className='icon-7'></i>
                   </Link>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

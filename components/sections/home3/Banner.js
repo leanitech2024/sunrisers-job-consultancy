@@ -20,11 +20,11 @@ export default function Banner() {
             style={{
               backgroundImage: 'url(assets/images/shape/shape-12.png)',
             }}></div>
-          <div
+          {/* <div
             className='shape-3'
             style={{
               backgroundImage: 'url(assets/images/shape/shape-13.png)',
-            }}></div>
+            }}></div> */}
         </div>
         <div className='auto-container'>
           <div className='row align-items-center'>
@@ -40,12 +40,12 @@ export default function Banner() {
                   connecting talent with the right opportunities.
                 </p>
                 <div className='btn-box'>
-                  <Link href='#' className='theme-btn btn-one mr_20'>
-                    <span>Find Works</span>
+                  <Link href='/job-apply' className='theme-btn btn-one mr_20'>
+                    <span>Work Together</span>
                   </Link>
-                  <Link href='#' className='theme-btn banner-btn'>
+                  {/* <Link href='#' className='theme-btn banner-btn'>
                     Hire Talents Now
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </div>
